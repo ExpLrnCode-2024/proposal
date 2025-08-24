@@ -379,11 +379,11 @@ the summer conference season of 2025.
 
 ### Related PTAS Project
 
-*"Your proposal has some similarities to another PTAS project in
-Informatics led by Pavlos Andreadis. Please contact Pavlos to see if
-there are any productive crossovers between your two projects and also
-to ensure clear differentiation between your two projects. Describe to
-the PTAS committee, how each project will contribute uniquely."*
+> *"Your proposal has some similarities to another PTAS project in
+> Informatics led by Pavlos Andreadis. Please contact Pavlos to see if
+> there are any productive crossovers between your two projects and also
+> to ensure clear differentiation between your two projects. Describe to
+> the PTAS committee, how each project will contribute uniquely."*
 
 We are grateful to the PTAS panel for alerting us to Dr Andreadis' and
 collaborators' project. This project also focuses on the integration of
@@ -438,8 +438,8 @@ activities:
 
 ### Ethics Approval
 
-*"Please confirm that approval has been obtained or will be obtained
-before the research commences."*
+> *"Please confirm that approval has been obtained or will be obtained
+> before the research commences."*
 
 We can confirm that we have obtained ethics approval for this project
 from the School of Physics & Astronomy, in line with Universities UK
@@ -447,11 +447,11 @@ Concordat on Integrity, CSE and UKRI policies.
 
 ### Timeframe & Budget
 
-*"The committee felt that the current timeframe was too short for the
-scope of the proposed work, especially with an April 2024 start. We
-would like you to extend the timeframe for project and should consider
-adding 3-4 months to the current timeframe to enable all work to be
-completed."*
+> *"The committee felt that the current timeframe was too short for the
+> scope of the proposed work, especially with an April 2024 start. We
+> would like you to extend the timeframe for project and should consider
+> adding 3-4 months to the current timeframe to enable all work to be
+> completed."*
 
 We agree that the original time-frame was optimistic. We propose that
 the start date is postponed to June 1^st^ and the project duration is
@@ -471,14 +471,14 @@ be a seamless handover at the end of August, and JMR will remain
 available to provide support and guidance throughout the remainder of
 the project duration.
 
-*"Revisit and revise the budget. Add additional research assistant costs
-for extending the timeframe."*
+> *"Revisit and revise the budget. Add additional research assistant costs
+> for extending the timeframe."*
 
 We have added an additional three months of stipend for part-time RA
 work, on top of the four months originally requested. We have adjusted
 the pay grade in line with standard pay for PDRAs and PGRAs in SoPA.
 
-*"The budget details no costs for interview transcription. Please add
+> *"The budget details no costs for interview transcription. Please add
 these if necessary. If not necessary, please indicate why this isn't
 required."*
 
@@ -492,8 +492,8 @@ We will only use transcription software for which we are completely
 satisfied that the input data is secure, i.e. not used for any other
 purposes and deleted once the transcription is finished.
 
-*"Add costs for dissemination, in particular conference attendance is
-mentioned in the application. Please add costs if this is required."*
+> *"Add costs for dissemination, in particular conference attendance is
+> mentioned in the application. Please add costs if this is required."*
 
 We have listed several ways in which we will disseminate our research
 both within and outside of the University. The majority of these do not
@@ -519,7 +519,7 @@ publishing costs.
 ### Responses to additional comments
 
 > *"Would an element of anonymity be useful? Will students who have
-engaged with courses where AI was banned be honest about their views?"*
+> engaged with courses where AI was banned be honest about their views?"*
 
 We agree! The student interviewees will be entirely anonymous from the
 perspective of teaching staff at the University. Only the RAs, who will
@@ -540,7 +540,7 @@ ethnicity or any other characteristics that might identify individuals
 when corroborated.
 
 > *"The relationship between the survey and the interviews is not clear --
-will the survey be informed by the interviews?"*
+> will the survey be informed by the interviews?"*
 
 Our intention is for the survey to inform the interviews, rather than
 vice versa. The interviews are really the main focus of this study, but
@@ -558,7 +558,7 @@ aim to recruit a small number of students who are graduating this summer
 from the initial survey.
 
 > *"How will student interviewees be selected to ensure appropriate
-representation?"*
+> representation?"*
 
 We have discussed this issue at length in the 'Methods and Evaluation'
 section, although it is fair to observe that we have not detailed a
